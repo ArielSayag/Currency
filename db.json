@@ -1,0 +1,22 @@
+{
+  "USD/ILS": {
+    "Name": "USD/ILS",
+    "Result": 3.63628,
+    "Date": "29/04/2023"
+  },
+  "GBP/EUR": {
+    "Name": "GBP/EUR",
+    "Result": 1.129581,
+    "Date": "29/04/2023"
+  },
+  "EUR/JPY": {
+    "Name": "EUR/JPY",
+    "Result": 151.67288,
+    "Date": "29/04/2023"
+  },
+  "EUR/USD": {
+    "Name": "EUR/USD",
+    "Result": 1.112713,
+    "Date": "29/04/2023"
+  }
+}
